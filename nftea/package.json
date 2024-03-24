@@ -8,14 +8,6 @@
     "start": "next start",
     "lint": "next lint"
   },
-
-  "devDependencies": {
-    "autoprefixer": "^10.0.1",
-    "postcss": "^8",
-    "tailwindcss": "^3.3.0",
-    "eslint": "^8",
-    "eslint-config-next": "14.1.4"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/DUXCRY/enpiem.git"
